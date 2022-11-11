@@ -3,7 +3,7 @@
 ## Hi, I'm Arif @faithcoder
 ### Professional WordPress Developer
 
-WordPress developer with 6+ years of designing and developing themes, plugins, debugging, and business staff in eCommerce technologies. Well documentation reader to find the easiest way to execute the code. I enjoy what I do, love to take responsibility and help others. Always intend to have a diversified tech and knowledge.
+WordPress developer with 6+ years of designing and developing themes, plugins, debugging, and business staff in eCommerce technologies. Well documentation reader to find the easiest way to execute the code. I enjoy what I do, love to take responsibility and help others. Always intend to have a diversified tech knowledge.
 
 Skills: HTML / CSS / BOOTSTRAP / TAILWINDCSS / JAVASCRIPT / JQUERY / PHP/ WORDPRESS THEME AND PLUGIN DEVELOPMENT
 
